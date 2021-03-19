@@ -1,5 +1,4 @@
 {
-  "encoding": "UTF-8",
   "headers": {
     "/sample/*": {
       "Access-Control-Allow-Origin": "*",
